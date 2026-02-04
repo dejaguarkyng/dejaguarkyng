@@ -12,6 +12,10 @@
 
 <br>
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Black_Jaguar_%28Panthera_onca%29.JPG/800px-Black_Jaguar_%28Panthera_onca%29.JPG" alt="Black Jaguar" width="400" style="border-radius: 12px;" />
+
+<br><br>
+
 <!-- ═══════════════════════════════════════════════════════ -->
 <!-- SOCIAL BADGES -->
 <!-- ═══════════════════════════════════════════════════════ -->
@@ -293,6 +297,10 @@ The parent company behind EduFreed and future products targeting underserved mar
 <div align="center">
 
 <br>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Black_jaguar.jpg/600px-Black_jaguar.jpg" alt="Melanistic Jaguar" width="350" style="border-radius: 12px;" />
+
+<br><br>
 
 > *"Some people build to create. I build to prove a point. And the point has already been made."*
 
