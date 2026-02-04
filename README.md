@@ -192,7 +192,6 @@ The parent company behind EduFreed and future products targeting underserved mar
 #### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Solidity](https://img.shields.io/badge/Solidity-0d1117?style=for-the-badge&logo=solidity&logoColor=363636)
 
 #### Backend
@@ -242,12 +241,18 @@ The parent company behind EduFreed and future products targeting underserved mar
 
 <br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dejaguarkyng&show_icons=true&theme=dark&bg_color=0d1117&title_color=E8A317&icon_color=E8A317&text_color=c9d1d9&border_color=30363d&ring_color=E8A317&include_all_commits=true&count_private=true" alt="stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dejaguarkyng&theme=dark&background=0d1117&ring=E8A317&fire=E8A317&currStreakLabel=E8A317&sideLabels=E8A317&border=30363d&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="streak" />
+<a href="https://github.com/dejaguarkyng">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dejaguarkyng&show_icons=true&theme=dark&bg_color=0d1117&title_color=E8A317&icon_color=E8A317&text_color=c9d1d9&border_color=30363d&ring_color=E8A317&include_all_commits=true&count_private=true" alt="stats" />
+</a>
+<a href="https://github.com/dejaguarkyng">
+  <img width="49%" src="https://streak-stats.demolab.com/?user=dejaguarkyng&theme=dark&background=0d1117&ring=E8A317&fire=E8A317&currStreakLabel=E8A317&sideLabels=E8A317&border=30363d&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="streak" />
+</a>
 
 <br><br>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dejaguarkyng&layout=compact&theme=dark&bg_color=0d1117&title_color=E8A317&text_color=c9d1d9&border_color=30363d&langs_count=8" alt="languages" />
+<a href="https://github.com/dejaguarkyng">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dejaguarkyng&layout=compact&theme=dark&bg_color=0d1117&title_color=E8A317&text_color=c9d1d9&border_color=30363d&langs_count=8" alt="languages" />
+</a>
 
 <br><br>
 
@@ -255,7 +260,7 @@ The parent company behind EduFreed and future products targeting underserved mar
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=dejaguarkyng&theme=darkhub&no-frame=true&no-bg=true&column=7&title_color=E8A317" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=dejaguarkyng&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="trophies" />
 
 </div>
 
@@ -270,9 +275,9 @@ The parent company behind EduFreed and future products targeting underserved mar
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dejaguarkyng/dejaguarkyng/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dejaguarkyng/dejaguarkyng/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/dejaguarkyng/dejaguarkyng/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dejaguarkyng/dejaguarkyng/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dejaguarkyng/dejaguarkyng/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/dejaguarkyng/dejaguarkyng/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
