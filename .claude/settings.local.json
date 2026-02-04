@@ -3,7 +3,14 @@
     "allow": [
       "Bash(git push:*)",
       "Bash(git add:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(gh workflow run:*)",
+      "WebSearch",
+      "WebFetch(domain:unsplash.com)",
+      "Bash(curl:*)",
+      "Bash(findstr:*)",
+      "Bash(python -c:*)",
+      "WebFetch(domain:commons.wikimedia.org)"
     ]
   }
 }

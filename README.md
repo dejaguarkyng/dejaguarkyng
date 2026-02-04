@@ -245,46 +245,13 @@ The parent company behind EduFreed and future products targeting underserved mar
 
 <br>
 
-<a href="https://github.com/dejaguarkyng">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dejaguarkyng&show_icons=true&theme=dark&bg_color=0d1117&title_color=E8A317&icon_color=E8A317&text_color=c9d1d9&border_color=30363d&ring_color=E8A317&include_all_commits=true&count_private=true" alt="stats" />
-</a>
-<a href="https://github.com/dejaguarkyng">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=dejaguarkyng&theme=dark&background=0d1117&ring=E8A317&fire=E8A317&currStreakLabel=E8A317&sideLabels=E8A317&border=30363d&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="streak" />
-</a>
 
-<br><br>
-
-<a href="https://github.com/dejaguarkyng">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dejaguarkyng&layout=compact&theme=dark&bg_color=0d1117&title_color=E8A317&text_color=c9d1d9&border_color=30363d&langs_count=8" alt="languages" />
-</a>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dejaguarkyng&bg_color=0d1117&color=E8A317&line=E8A317&point=c9d1d9&area=true&area_color=E8A317&hide_border=false&custom_title=The%20Hunt%20%E2%80%94%20Contribution%20Graph" alt="activity graph" width="95%" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=dejaguarkyng&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="trophies" />
-
-</div>
 
 <br>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!-- SNAKE ANIMATION -->
 <!-- ═══════════════════════════════════════════════════════ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dejaguarkyng/dejaguarkyng/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dejaguarkyng/dejaguarkyng/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/dejaguarkyng/dejaguarkyng/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
 
 <br>
 
@@ -297,9 +264,6 @@ The parent company behind EduFreed and future products targeting underserved mar
 <div align="center">
 
 <br>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Black_jaguar.jpg/600px-Black_jaguar.jpg" alt="Melanistic Jaguar" width="350" style="border-radius: 12px;" />
-
 <br><br>
 
 > *"Some people build to create. I build to prove a point. And the point has already been made."*
